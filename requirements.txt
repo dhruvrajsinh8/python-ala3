@@ -1,0 +1,5 @@
+Flask==2.2.5
+spacy==3.5.1
+openai==0.27.8
+SQLAlchemy==2.0.19
+flask_sqlalchemy==3.0.3
